@@ -1,4 +1,6 @@
-I am currently a Third Year Ph.D. Candidate at Zhejiang University, advised by Prof. [Shouling Ji](https://scholar.google.com/citations?user=5HoF_9oAAAAJ). I received my B.S. degree with honors in Computer Science from Ningbo University (Yangming Class), advised by Prof. [Diqun Yan](http://www.yandiqun.com/). My research focuses on Trustworthy Generative AI in real-world applications, especially AI Security, AI Copyright Protection, and Privacy-Preserving AI. My long-term goal is to strengthen the source governance of AI technology and rectify illegal AI applications. Recently, I have been focusing more on the Security and Privacy risks of MLLMs and T2I models. **Looking for undergraduate or graduate students with common research interests to collaborate with.**
+# Jiahao Chen
+
+I am currently a Third Year Ph.D. Candidate at Zhejiang University at [NESA Lab](https://nesa.zju.edu.cn/), advised by Prof. [Shouling Ji](https://scholar.google.com/citations?user=5HoF_9oAAAAJ). I received my B.S. degree with honors in Computer Science from Ningbo University (Yangming Class), advised by Prof. [Diqun Yan](http://www.yandiqun.com/). My research focuses on Trustworthy Generative AI in real-world applications, especially AI Security, AI Copyright Protection, and Privacy-Preserving AI. My long-term goal is to strengthen the source governance of AI technology and rectify illegal AI applications. Recently, I have been focusing more on the Security and Privacy risks of MLLMs and T2I models. **Looking for undergraduate or graduate students with common research interests to collaborate with.** 
 
 ## AI Risk Measurement and Mitigation 🛡️✖️🗡️ 
 
@@ -30,7 +32,7 @@ I am currently a Third Year Ph.D. Candidate at Zhejiang University, advised by P
 - *2024.10*: &nbsp;🎉🎉 Two papers were accepted by AAAI 2025, congratulations to Xing!
 
 # 📝 Publications 
-(* denotes equal contribution)
+(* denotes equal contribution) / Full list in [Google Scholar](https://scholar.google.com/citations?user=Z7SkCL8AAAAJ)
 
 - [Enhancing Adversarial Transferability with Adversarial Weight Tuning](https://ojs.aaai.org/index.php/AAAI/article/view/32203), **Jiahao Chen**<sup>*</sup>, Zhou Feng<sup>*</sup>, Rui Zeng, Yuwen Pu, Chunyi Zhou, Yi Jiang, Yuyou Gan, Jinbao Li, Shouling Ji, AAAI 2025. [CCF-A] [Code](https://github.com/xaddwell/AWT)
 - [CAMH: Advancing Model Hijacking Attack in Machine Learning](https://ojs.aaai.org/index.php/AAAI/article/view/33884), Xing He<sup>*</sup>, **Jiahao Chen**<sup>*</sup>, Yuwen Pu, Qingming Li, Chunyi Zhou, Yingcai Wu, Jinbao Li, Shouling Ji, AAAI 2025. [CCF-A] [Code](https://github.com/healthandAI/CAMH)
@@ -59,5 +61,5 @@ I am currently a Third Year Ph.D. Candidate at Zhejiang University, advised by P
 # 💬 Service
 - *Reviewers:* IEEE TDSC, IEEE TIFS, ICLR, CVPR, AAAI, ACM MM, AAMAS
 
-<!-- # 💻 Internships
-- *2024.05 - 2020.02*, [Ant](https://github.com/), Hangzhou. -->
+# 💻 Internships
+- *2023.05 - 2025.07*, Ant Group, Hangzhou.
