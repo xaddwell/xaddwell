@@ -34,7 +34,7 @@ I am currently a Third Year Ph.D. Candidate at Zhejiang University at [NESA Lab]
 # 📝 Publications 
 ($^*$ denotes equal contribution) / Full list in [Google Scholar](https://scholar.google.com/citations?user=Z7SkCL8AAAAJ)
 
-- [Enhancing Adversarial Transferability with Adversarial Weight Tuning](https://ojs.aaai.org/index.php/AAAI/article/view/32203), **Jiahao Chen** $\^*$, Zhou Feng $^*$, Rui Zeng, Yuwen Pu, Chunyi Zhou, Yi Jiang, Yuyou Gan, Jinbao Li, Shouling Ji, AAAI 2025. [CCF-A] [Code](https://github.com/xaddwell/AWT)
+- [Enhancing Adversarial Transferability with Adversarial Weight Tuning](https://ojs.aaai.org/index.php/AAAI/article/view/32203), **Jiahao Chen** $^{*}$, Zhou Feng $^*$, Rui Zeng, Yuwen Pu, Chunyi Zhou, Yi Jiang, Yuyou Gan, Jinbao Li, Shouling Ji, AAAI 2025. [CCF-A] [Code](https://github.com/xaddwell/AWT)
 - [CAMH: Advancing Model Hijacking Attack in Machine Learning](https://ojs.aaai.org/index.php/AAAI/article/view/33884), Xing He $\^*$, **Jiahao Chen** $^*$, Yuwen Pu, Qingming Li, Chunyi Zhou, Yingcai Wu, Jinbao Li, Shouling Ji, AAAI 2025. [CCF-A] [Code](https://github.com/healthandAI/CAMH)
 - [Facial data minimization: Shallow model as your privacy filter](https://ieeexplore.ieee.org/abstract/document/10975146/), Yuwen Pu $^*$, **Jiahao Chen** $^*$, Jiayu Pan, Diqun Yan, Xuhong Zhang, Shouling Ji, TDSC 2025. [CCF-A]
 - [Mellivora Capensis: A Backdoor-Free Training Framework on the Poisoned Dataset without Auxiliary Data](https://ieeexplore.ieee.org/document/11173939), Yuwen Pu $^*$, **Jiahao Chen** $^*$, Chunyi Zhou, Zhou Feng, Qingming Li, Chunqiang Hu and Shouling Ji, TDSC 2025. [CCF-A]
