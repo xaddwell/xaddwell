@@ -20,6 +20,7 @@ I am currently a Third Year Ph.D. Candidate at Zhejiang University at [NESA Lab]
 - Data(set)/Model Copyright: In progress
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 One paper was accepted by TIFS 2025, congratulations to PhD. Ye!
 - *2025.11*: &nbsp;🎉🎉 One paper was accepted by MM 2025, congratulations to God Zhou!
 - *2025.11*: &nbsp;🎉🎉 Our Trustworthy FL library ([TFLlib](https://github.com/xaddwell/TFLlib)) is opensourced !
 - *2025.11*: &nbsp;🎉🎉 One paper was accepted by MMM 2026, congratulations to Junhao!
@@ -38,6 +39,7 @@ I am currently a Third Year Ph.D. Candidate at Zhejiang University at [NESA Lab]
 - [CAMH: Advancing Model Hijacking Attack in Machine Learning](https://ojs.aaai.org/index.php/AAAI/article/view/33884), Xing He $^\star$, **Jiahao Chen** $^\star$, Yuwen Pu, Qingming Li, Chunyi Zhou, Yingcai Wu, Jinbao Li, Shouling Ji, AAAI 2025. [CCF-A] [Code](https://github.com/healthandAI/CAMH)
 - [Facial data minimization: Shallow model as your privacy filter](https://ieeexplore.ieee.org/abstract/document/10975146/), Yuwen Pu $^\star$, **Jiahao Chen** $^\star$, Jiayu Pan, Diqun Yan, Xuhong Zhang, Shouling Ji, TDSC 2025. [CCF-A]
 - [Mellivora Capensis: A Backdoor-Free Training Framework on the Poisoned Dataset without Auxiliary Data](https://ieeexplore.ieee.org/document/11173939), Yuwen Pu $^\star$, **Jiahao Chen** $^\star$, Chunyi Zhou, Zhou Feng, Qingming Li, Chunqiang Hu and Shouling Ji, TDSC 2025. [CCF-A]
+- [StealthPhase: Towards a Stealthy Backdoor Attack Against Speaker Recognition](), Zhe Ye, Qiben Yan, **Jiahao Chen**, Xiangui Kang, and Jiwu Huang, TIFS 2025. [CCF-A]
 - [The Eminence in Shadow: Exploiting Feature Boundary Ambiguity for Robust Backdoor Attacks](), Zhou Feng, **Jiahao Chen**, Chunyi Zhou, Yuwen Pu, Tianyu Du, Jinbao Li, Jianhai Chen, Shouling Ji, KDD 2026. [CCF-A]
 - [Enkidu: Universal Frequential Perturbation for Real-Time Audio Privacy Protection against Voice Deepfakes](https://dl.acm.org/doi/abs/10.1145/3746027.3755629), Zhou Feng, **Jiahao Chen**, Chunyi Zhou, Yuwen Pu, Qingming Li, Tianyu Du, Shouling Ji, MM 2025. [CCF-A]
 - [TWIST: Text-encoder Weight-editing for Inserting Secret Trojans in Text-to-Image Models](https://aclanthology.org/2025.acl-long.541/), Xindi Li, Zhe Liu, Tong Zhang, **Jiahao Chen**, Qingming Li, Jinbao Li, Shouling Ji, ACL 2025 Main. [CCF-A]
