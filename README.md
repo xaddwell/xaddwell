@@ -21,7 +21,7 @@ I am currently a Third Year Ph.D. Candidate at Zhejiang University at [NESA Lab]
 
 # 🔥 News
 - *2025.12*: &nbsp;🎉🎉 One paper was accepted by TIFS 2025, congratulations to PhD. Ye!
-- *2025.11*: &nbsp;🎉🎉 One paper was accepted by MM 2025, congratulations to God Zhou!
+- *2025.11*: &nbsp;🎉🎉 One paper was accepted by KDD 2026, congratulations to God Zhou!
 - *2025.11*: &nbsp;🎉🎉 Our Trustworthy FL library ([TFLlib](https://github.com/xaddwell/TFLlib)) is opensourced !
 - *2025.11*: &nbsp;🎉🎉 One paper was accepted by MMM 2026, congratulations to Junhao!
 - *2025.08*: &nbsp;🎉🎉 One paper was accepted by TDSC 2025, congratulations to Professor Pu!
