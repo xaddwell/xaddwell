@@ -8,16 +8,16 @@ I am currently a Third Year Ph.D. Candidate at Zhejiang University at [NESA Lab]
 
 - Adversarial Transferability: [AAAI'25](https://ojs.aaai.org/index.php/AAAI/article/view/32203), [MM'25](https://dl.acm.org/doi/abs/10.1145/3746027.3755629), [ICMR'25 Oral](https://dl.acm.org/doi/10.1145/3731715.3733325), [MASS'24](https://www.computer.org/csdl/proceedings-article/mass/2024/639900a357/21kuuM5CT28), [MM'23](https://dl.acm.org/doi/abs/10.1145/3581783.3613768)
 - Model Hijacking: [AAAI'25](https://ojs.aaai.org/index.php/AAAI/article/view/33884)
-- Trojan Attack: [ICME'25 Oral](https://arxiv.org/abs/2505.19821), [ACL'25 Main](https://aclanthology.org/2025.acl-long.541/), [KDD'26](), [TIFS'25]()
-- Jailbreak: In Progress
-- Prompt Injection: In Progress
-- LLM-based Attack: [MMM'26]( )
+- Trojan Attack: [ICME'25 Oral](https://arxiv.org/abs/2505.19821), [ACL'25 Main](https://aclanthology.org/2025.acl-long.541/), [KDD'26](), [TIFS'25](), [Submission](), [Submission]()
+- LLM Safety & Security: [ICLR'26](), [Submission]()
+- LLM-based Attack: [MMM'26](), [Submission]()
 
 ### 🛡️ Risk Mitigation
 
-- Backdoor Defense: [TDSC'25](https://ieeexplore.ieee.org/document/11173939)
-- Privacy Preserving: [TDSC'25](https://ieeexplore.ieee.org/abstract/document/10975146/), [MM'25](https://dl.acm.org/doi/abs/10.1145/3746027.3755629), [MM'23](https://dl.acm.org/doi/abs/10.1145/3581783.3613768)
-- Data(set)/Model Copyright: In progress
+- Backdoor Defense: [TDSC'25](https://ieeexplore.ieee.org/document/11173939), [Submission](), [Submission]()
+- Privacy Preserving: [TDSC'25](https://ieeexplore.ieee.org/abstract/document/10975146/), [MM'25](https://dl.acm.org/doi/abs/10.1145/3746027.3755629), [MM'23](https://dl.acm.org/doi/abs/10.1145/3581783.3613768), [Submission]()
+- Data(set)/Model Copyright: [Submission]()
+- LLM Safety: [Submission]()
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 Two paper were accepted by ICLR 2026, congratulations to Linpei and Jianing!
