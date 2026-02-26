@@ -20,6 +20,7 @@ I am currently a Third Year Ph.D. Candidate at Zhejiang University at [NESA Lab]
 - LLM Safety: [Submission]()
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 One paper was accepted by TIFS 2026, congratulations to Qianli!
 - *2026.01*: &nbsp;🎉🎉 Two paper were accepted by ICLR 2026, congratulations to Linpei and Jianing!
 - *2025.12*: &nbsp;🎉🎉 One paper was accepted by TIFS 2025, congratulations to God Ye!
 - *2025.11*: &nbsp;🎉🎉 One paper was accepted by KDD 2026, congratulations to God Zhou!
