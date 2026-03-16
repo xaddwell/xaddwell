@@ -54,9 +54,8 @@ I am currently a Third Year Ph.D. Candidate at Zhejiang University at [NESA Lab]
 - [Auditing M-LLMs for Privacy Risks: A Synthetic Benchmark and Evaluation Framework]( ), Junhao Li, **Jiahao Chen**, Zhou Feng, Chunyi Zhou, MMM 2026. [CCF-C]
 - [AdvUSL: Targeted Adversarial Attack against U-shaped Split Learning](https://www.computer.org/csdl/proceedings-article/mass/2024/639900a357/21kuuM5CT28), Yunxiao He, Chunqiang Hu, Yuwen Pu, **Jiahao Chen**, Xingwang Li, MASS 2024. [CCF-C]
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🎖 Honors and Awards
+- *2025.12* 2nd PhD Program of the Young S\&T Talents Cultivation Project, CAST. 
 
 # 📖 Educations
 - *2023.09 - now*, Ph.D. Candidate, Electronic Information, College of Computer Science and Technology, Zhejiang University.
@@ -66,7 +65,7 @@ I am currently a Third Year Ph.D. Candidate at Zhejiang University at [NESA Lab]
 - *2025.07 - now*, Oppo Intern, MLLM Security. -->
 
 # 💬 Service
-- *Reviewers:* ICLR, ICML, CVPR, KDD, ACL, AAAI, ACM MM, TDSC, TIFS, AAMAS
+- *Reviewers:* ICLR, ICML, CVPR, KDD, ACL, AAAI, ACM MM, TDSC, TIFS, TASLP, ECCV, AAMAS
 
 # 💻 Internships
 - *2023.05 - 2025.07*, Ant Group, Hangzhou.
