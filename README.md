@@ -8,7 +8,7 @@ I am currently a Third Year Ph.D. Candidate at Zhejiang University at [NESA Lab]
 
 - Adversarial Transferability: [AAAI'25](https://ojs.aaai.org/index.php/AAAI/article/view/32203), [MM'25](https://dl.acm.org/doi/abs/10.1145/3746027.3755629), [ICMR'25 Oral](https://dl.acm.org/doi/10.1145/3731715.3733325), [MASS'24](https://www.computer.org/csdl/proceedings-article/mass/2024/639900a357/21kuuM5CT28), [MM'23](https://dl.acm.org/doi/abs/10.1145/3581783.3613768), [TIFS'26](https://ieeexplore.ieee.org/document/11422989)
 - Model Hijacking: [AAAI'25](https://ojs.aaai.org/index.php/AAAI/article/view/33884)
-- Trojan Attack: [ICME'25 Oral](https://arxiv.org/abs/2505.19821), [ACL'25 Main](https://aclanthology.org/2025.acl-long.541/), [KDD'26](), [TIFS'26](), [Submission](), [Submission]()
+- Trojan Attack: [ICME'25 Oral](https://arxiv.org/abs/2505.19821), [ACL'25 Main](https://aclanthology.org/2025.acl-long.541/), [KDD'26](https://arxiv.org/abs/2512.10402), [TIFS'26](), [Submission](), [Submission]()
 - LLM Safety & Security: [ICLR'26](https://openreview.net/forum?id=c2BygWVqag), [ACL'26 * 2](), [KDD'26 * 2](), [ICML'26 * 6]()
 - LLM-based Attack: [MMM'26](https://link.springer.com/chapter/10.1007/978-981-95-6957-1_3), [Submission]()
 
@@ -44,7 +44,7 @@ I am currently a Third Year Ph.D. Candidate at Zhejiang University at [NESA Lab]
 - [Mellivora Capensis: A Backdoor-Free Training Framework on the Poisoned Dataset without Auxiliary Data](https://ieeexplore.ieee.org/document/11173939), Yuwen Pu $^\star$, **Jiahao Chen** $^\star$, Chunyi Zhou, Zhou Feng, Qingming Li, Chunqiang Hu and Shouling Ji, TDSC 2025. [CCF-A]
 - [DUAP: Disentanglement-based Universal Adversarial Perturbations for Robust Multilingual Speech Privacy Protection](https://ieeexplore.ieee.org/document/11422989), Qianli Ma, Wenjie Zhang, **Jiahao Chen**, et al., TIFS 2026. [CCF-A]
 - [StealthPhase: Towards a Stealthy Backdoor Attack Against Speaker Recognition](), Zhe Ye, Qiben Yan, **Jiahao Chen**, Xiangui Kang, and Jiwu Huang, TIFS 2025. [CCF-A]
-- [The Eminence in Shadow: Exploiting Feature Boundary Ambiguity for Robust Backdoor Attacks](), Zhou Feng, **Jiahao Chen**, Chunyi Zhou, Yuwen Pu, Tianyu Du, Jinbao Li, Jianhai Chen, Shouling Ji, KDD 2026. [CCF-A]
+- [The Eminence in Shadow: Exploiting Feature Boundary Ambiguity for Robust Backdoor Attacks](https://arxiv.org/abs/2512.10402), Zhou Feng, **Jiahao Chen**, Chunyi Zhou, Yuwen Pu, Tianyu Du, Jinbao Li, Jianhai Chen, Shouling Ji, KDD 2026. [CCF-A]
 - [Enkidu: Universal Frequential Perturbation for Real-Time Audio Privacy Protection against Voice Deepfakes](https://dl.acm.org/doi/abs/10.1145/3746027.3755629), Zhou Feng, **Jiahao Chen**, Chunyi Zhou, Yuwen Pu, Qingming Li, Tianyu Du, Shouling Ji, MM 2025. [CCF-A]
 - [STAR: Strategy-driven Automatic Jailbreak Red-teaming For Large Language Model](https://openreview.net/forum?id=c2BygWVqag), Jianing Liu, Qingming Li, **Jiahao Chen**, Rui Zeng, Binbin Zhao, Shouling Ji, ICLR 2026. [Core-A].
 - [Contextual and Seasonal LSTMs for Time Series Anomaly Detection](https://openreview.net/forum?id=2VtveTkmzW), Lingpei Zhang, Qingming Li, Yong Yang, **Jiahao Chen**, Rui Zeng, Chenyang Lyu, Shouling Ji, ICLR 2026. [Core-A].
