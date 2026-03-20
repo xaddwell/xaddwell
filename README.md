@@ -17,7 +17,7 @@ I am currently a Third Year Ph.D. Candidate at Zhejiang University at [NESA Lab]
 - Backdoor Defense: [TDSC'25](https://ieeexplore.ieee.org/document/11173939), [Submission](), [Submission]()
 - Privacy Preserving: [TDSC'25](https://ieeexplore.ieee.org/abstract/document/10975146/), [MM'25](https://dl.acm.org/doi/abs/10.1145/3746027.3755629), [MM'23](https://dl.acm.org/doi/abs/10.1145/3581783.3613768), [TDSC'26 * 2](), [Usenix Security'26 Submission]()
 - Data(set)/Model Copyright: [ICME'26]()
-- LLM Safety: [ACL'26 Submission](), [KDD'26 Submission]()
+- LLM Safety: [ACL'26 Submission](), [KDD'26 Submission](), [MM'26 Submission]()
 
 # 🔥 News
 - *2026.03*: &nbsp;🎉🎉 The repositories of our [Measurement](https://github.com/xaddwell/awesome-openclaw-security) and [Survey](https://github.com/xaddwell/awesome-agentic-memory-safety) are online!
@@ -58,7 +58,7 @@ I am currently a Third Year Ph.D. Candidate at Zhejiang University at [NESA Lab]
 - [AdvUSL: Targeted Adversarial Attack against U-shaped Split Learning](https://www.computer.org/csdl/proceedings-article/mass/2024/639900a357/21kuuM5CT28), Yunxiao He, Chunqiang Hu, Yuwen Pu, **Jiahao Chen**, Xingwang Li, MASS 2024. [CCF-C]
 
 # 🎖 Honors and Awards
-- *2025.12* 2nd PhD Program of the Young S\&T Talents Cultivation Project, CAST. 
+- *2025.12* 2nd PhD Program of the Young S\&T Talents Cultivation Project, CAST (中国科协青年科技人才培育工程博士生专项计划). 
 
 # 📖 Educations
 - *2023.09 - now*, Ph.D. Candidate, Electronic Information, College of Computer Science and Technology, Zhejiang University.
