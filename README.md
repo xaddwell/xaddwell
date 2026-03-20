@@ -20,6 +20,7 @@ I am currently a Third Year Ph.D. Candidate at Zhejiang University at [NESA Lab]
 - LLM Safety: [Submission]()
 
 # 🔥 News
+- *2026.03*: &nbsp;🎉🎉 The repositories of our [Measurement](https://github.com/xaddwell/awesome-openclaw-security) and [Survey](https://github.com/xaddwell/awesome-agentic-memory-safety) are online!
 - *2026.03*: &nbsp;🎉🎉 One paper was accepted by ICME 2026, congratulations to Xing!
 - *2026.02*: &nbsp;🎉🎉 One paper was accepted by TIFS 2026, congratulations to Qianli!
 - *2026.01*: &nbsp;🎉🎉 Two paper were accepted by ICLR 2026, congratulations to Linpei and Jianing!
@@ -43,7 +44,7 @@ I am currently a Third Year Ph.D. Candidate at Zhejiang University at [NESA Lab]
 - [Facial data minimization: Shallow model as your privacy filter](https://ieeexplore.ieee.org/abstract/document/10975146/), Yuwen Pu $^\star$, **Jiahao Chen** $^\star$, Jiayu Pan, Diqun Yan, Xuhong Zhang, Shouling Ji, TDSC 2025. [CCF-A]
 - [Mellivora Capensis: A Backdoor-Free Training Framework on the Poisoned Dataset without Auxiliary Data](https://ieeexplore.ieee.org/document/11173939), Yuwen Pu $^\star$, **Jiahao Chen** $^\star$, Chunyi Zhou, Zhou Feng, Qingming Li, Chunqiang Hu and Shouling Ji, TDSC 2025. [CCF-A]
 - [DUAP: Disentanglement-based Universal Adversarial Perturbations for Robust Multilingual Speech Privacy Protection](https://ieeexplore.ieee.org/document/11422989), Qianli Ma, Wenjie Zhang, **Jiahao Chen**, et al., TIFS 2026. [CCF-A]
-- [StealthPhase: Towards a Stealthy Backdoor Attack Against Speaker Recognition](), Zhe Ye, Qiben Yan, **Jiahao Chen**, Xiangui Kang, and Jiwu Huang, TIFS 2025. [CCF-A]
+- [StealthPhase: Towards a Stealthy Backdoor Attack Against Speaker Recognition](https://ieeexplore.ieee.org/document/11296926), Zhe Ye, Qiben Yan, **Jiahao Chen**, Xiangui Kang, and Jiwu Huang, TIFS 2025. [CCF-A]
 - [The Eminence in Shadow: Exploiting Feature Boundary Ambiguity for Robust Backdoor Attacks](https://arxiv.org/abs/2512.10402), Zhou Feng, **Jiahao Chen**, Chunyi Zhou, Yuwen Pu, Tianyu Du, Jinbao Li, Jianhai Chen, Shouling Ji, KDD 2026. [CCF-A]
 - [Enkidu: Universal Frequential Perturbation for Real-Time Audio Privacy Protection against Voice Deepfakes](https://dl.acm.org/doi/abs/10.1145/3746027.3755629), Zhou Feng, **Jiahao Chen**, Chunyi Zhou, Yuwen Pu, Qingming Li, Tianyu Du, Shouling Ji, MM 2025. [CCF-A]
 - [STAR: Strategy-driven Automatic Jailbreak Red-teaming For Large Language Model](https://openreview.net/forum?id=c2BygWVqag), Jianing Liu, Qingming Li, **Jiahao Chen**, Rui Zeng, Binbin Zhao, Shouling Ji, ICLR 2026. [Core-A].
@@ -71,3 +72,4 @@ I am currently a Third Year Ph.D. Candidate at Zhejiang University at [NESA Lab]
 
 # 💻 Internships
 - *2023.05 - 2025.07*, Ant Group, Hangzhou.
+- *2025.07 - Now *, OPPO Research Institute, ShenZhen.
