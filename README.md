@@ -68,7 +68,8 @@ I am currently a Third Year Ph.D. Candidate at Zhejiang University at [NESA Lab]
 - *2025.07 - now*, Oppo Intern, MLLM Security. -->
 
 # 💬 Service
-- *Reviewers:* ICLR, ICML, CVPR, KDD, ACL, AAAI, ACM MM, TDSC, TIFS, TASLP, ECCV, AAMAS
+- *Conference Reviewers:* NeurIPS, ICLR, ICML, CVPR, ECCV, KDD, ACL, AAAI, ACM MM, AAMAS
+- *Journal Reviewers:* TDSC, TIFS, TASLP
 
 # 💻 Internships
 - *2023.05 - 2025.07*, Ant Group, Hangzhou.
