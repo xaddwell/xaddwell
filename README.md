@@ -1,6 +1,6 @@
 # Jiahao Chen
 
-I am currently a Third Year Ph.D. Candidate at Zhejiang University at [NESA Lab](https://nesa.zju.edu.cn/), advised by Prof. [Shouling Ji](https://scholar.google.com/citations?user=5HoF_9oAAAAJ). I received my B.S. degree with honors in Computer Science from Ningbo University (Yangming Class), advised by Prof. [Diqun Yan](http://www.yandiqun.com/). My research focuses on Trustworthy Generative AI in real-world applications, especially AI Security, AI Copyright Protection, and Privacy-Preserving AI. My long-term goal is to strengthen the source governance of AI technology and rectify illegal AI applications. Recently, I have been focusing more on the Security and Privacy risks of MLLMs and T2I models. **Looking for undergraduate or graduate students with common research interests to collaborate with.** Feel free to contact me with [wechat](./image/wechat.jpg) and grab a coffee whenever you’re free.
+I am currently a Third Year Ph.D. Candidate at Zhejiang University at [NESA Lab](https://nesa.zju.edu.cn/), advised by Prof. [Shouling Ji](https://scholar.google.com/citations?user=5HoF_9oAAAAJ). I received my B.S. degree with honors in Computer Science from Ningbo University (Yangming Class), advised by Prof. [Diqun Yan](http://www.yandiqun.com/). My research focuses on Trustworthy Generative AI in real-world applications, especially AI Security, AI Copyright Protection, and Privacy-Preserving AI. My long-term goal is to strengthen the source governance of AI technology and rectify illegal AI applications. Recently, I have been focusing more on the Security and Privacy risks of MLLMs and T2I models. **Looking for undergraduate or graduate students with common research interests to collaborate with.** Feel free to contact me with [wechat](./resources/image/wechat.jpg) and grab a coffee whenever you’re free.
 
 ## AI Risk Measurement and Mitigation 🛡️✖️🗡️ 
 
@@ -20,7 +20,8 @@ I am currently a Third Year Ph.D. Candidate at Zhejiang University at [NESA Lab]
 - LLM Safety: [ACL'26 Submission](), [KDD'26 Submission](), [MM'26 Submission]()
 
 # 🔥 News
-- *2026.03*: &nbsp;🎉🎉 The repositories of our [Measurement](https://github.com/xaddwell/awesome-openclaw-security) and [Survey](https://github.com/xaddwell/awesome-agentic-memory-safety) are online!
+- *2026.04*: &nbsp;🎉🎉 Our [Report](./resources/papers/openclaw-report.pdf) is online!
+- *2026.03*: &nbsp;🎉🎉 The repositories of our [Report](https://github.com/xaddwell/awesome-openclaw-security) and [Survey](https://github.com/xaddwell/awesome-agentic-memory-safety) are online!
 - *2026.03*: &nbsp;🎉🎉 One paper was accepted by ICME 2026, congratulations to Xing!
 - *2026.02*: &nbsp;🎉🎉 One paper was accepted by TIFS 2026, congratulations to Qianli!
 - *2026.01*: &nbsp;🎉🎉 Two paper were accepted by ICLR 2026, congratulations to Linpei and Jianing!
