@@ -70,8 +70,8 @@ I am currently a Third Year Ph.D. Candidate at Zhejiang University at [NESA Lab]
 
 # 💬 Service
 - *Conference Reviewers:* NeurIPS, ICLR, ICML, CVPR, ECCV, KDD, ACL, AAAI, ACM MM, AAMAS
-- *Journal Reviewers:* TDSC, TIFS, TASLP
+- *Journal Reviewers:* TDSC, TIFS, TASLP, Neural Networks
 
 # 💻 Internships
 - *2023.05 - 2025.07*, Ant Group, Hangzhou.
-- *2025.07 - Now *, OPPO Research Institute, ShenZhen.
+- *2025.07 - Now*, OPPO Research Institute, ShenZhen.
