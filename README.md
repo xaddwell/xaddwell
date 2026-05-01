@@ -6,20 +6,21 @@ I am currently a Third Year Ph.D. Candidate at Zhejiang University at [NESA Lab]
 
 ### 🗡️ Risk Measurement
 
-- Adversarial Transferability: [AAAI'25](https://ojs.aaai.org/index.php/AAAI/article/view/32203), [MM'25](https://dl.acm.org/doi/abs/10.1145/3746027.3755629), [ICMR'25 Oral](https://dl.acm.org/doi/10.1145/3731715.3733325), [MASS'24](https://www.computer.org/csdl/proceedings-article/mass/2024/639900a357/21kuuM5CT28), [MM'23](https://dl.acm.org/doi/abs/10.1145/3581783.3613768), [TIFS'26](https://ieeexplore.ieee.org/document/11422989)
+- Adversarial Transferability: [AAAI'25](https://ojs.aaai.org/index.php/AAAI/article/view/32203), [MM'25](https://dl.acm.org/doi/abs/10.1145/3746027.3755629), [ICMR'25 Oral](https://dl.acm.org/doi/10.1145/3731715.3733325), [MASS'24](https://www.computer.org/csdl/proceedings-article/mass/2024/639900a357/21kuuM5CT28), [MM'23](https://dl.acm.org/doi/abs/10.1145/3581783.3613768), [TIFS'26](https://ieeexplore.ieee.org/document/11422989), [ICML'26]()
 - Model Hijacking: [AAAI'25](https://ojs.aaai.org/index.php/AAAI/article/view/33884), [CCS'26 Submission]()
-- Trojan Attack: [ICME'25 Oral](https://arxiv.org/abs/2505.19821), [ACL'25 Main](https://aclanthology.org/2025.acl-long.541/), [KDD'26](https://arxiv.org/abs/2512.10402), [TIFS'26](https://ieeexplore.ieee.org/document/11296926), [TIFS'26 Submission](), [Submission]()
-- LLM Safety & Security: [ICLR'26](https://openreview.net/forum?id=c2BygWVqag), [ACL'26 * 2](), [KDD'26 * 2](), [ICML'26 * 6]()
+- Trojan Attack: [ICME'25 Oral](https://arxiv.org/abs/2505.19821), [ACL'25 Main](https://aclanthology.org/2025.acl-long.541/), [KDD'26](https://arxiv.org/abs/2512.10402), [TIFS'26](https://ieeexplore.ieee.org/document/11296926), [TIFS'26 Submission](), [ICML'26]()
+- LLM Safety & Security: [ICLR'26](https://openreview.net/forum?id=c2BygWVqag), [ACL'26 * 2](), [KDD'26 * 2](), [ICML'26]()
 - LLM-based Attack: [MMM'26](https://link.springer.com/chapter/10.1007/978-981-95-6957-1_3), [Submission]()
 
 ### 🛡️ Risk Mitigation
 
 - Backdoor Defense: [TDSC'25](https://ieeexplore.ieee.org/document/11173939), [Submission](), [Submission]()
 - Privacy Preserving: [TDSC'25](https://ieeexplore.ieee.org/abstract/document/10975146/), [MM'25](https://dl.acm.org/doi/abs/10.1145/3746027.3755629), [MM'23](https://dl.acm.org/doi/abs/10.1145/3581783.3613768), [TDSC'26 * 2](), [Usenix Security'26 Submission]()
-- Data(set)/Model Copyright: [ICME'26]()
+- Data(set)/Model Copyright: [ICME'26](), [ICML'26]()
 - LLM Safety: [ACL'26 Submission](), [KDD'26 Submission](), [MM'26 Submission]()
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 Four paper were accepted by ICML 2026, congratulations to all collaborators!
 - *2026.04*: &nbsp;🎉🎉 Our [Report](./resources/papers/openclaw-report.pdf) is online!
 - *2026.03*: &nbsp;🎉🎉 The repositories of our [Report](https://github.com/xaddwell/awesome-openclaw-security) and [Survey](https://github.com/xaddwell/awesome-agentic-memory-safety) are online!
 - *2026.03*: &nbsp;🎉🎉 One paper was accepted by ICME 2026, congratulations to Xing!
@@ -48,8 +49,12 @@ I am currently a Third Year Ph.D. Candidate at Zhejiang University at [NESA Lab]
 - [StealthPhase: Towards a Stealthy Backdoor Attack Against Speaker Recognition](https://ieeexplore.ieee.org/document/11296926), Zhe Ye, Qiben Yan, **Jiahao Chen**, Xiangui Kang, and Jiwu Huang, TIFS 2025. [CCF-A]
 - [The Eminence in Shadow: Exploiting Feature Boundary Ambiguity for Robust Backdoor Attacks](https://arxiv.org/abs/2512.10402), Zhou Feng, **Jiahao Chen**, Chunyi Zhou, Yuwen Pu, Tianyu Du, Jinbao Li, Jianhai Chen, Shouling Ji, KDD 2026. [CCF-A]
 - [Enkidu: Universal Frequential Perturbation for Real-Time Audio Privacy Protection against Voice Deepfakes](https://dl.acm.org/doi/abs/10.1145/3746027.3755629), Zhou Feng, **Jiahao Chen**, Chunyi Zhou, Yuwen Pu, Qingming Li, Tianyu Du, Shouling Ji, MM 2025. [CCF-A]
-- [STAR: Strategy-driven Automatic Jailbreak Red-teaming For Large Language Model](https://openreview.net/forum?id=c2BygWVqag), Jianing Liu, Qingming Li, **Jiahao Chen**, Rui Zeng, Binbin Zhao, Shouling Ji, ICLR 2026. [CCF-A].
-- [Contextual and Seasonal LSTMs for Time Series Anomaly Detection](https://openreview.net/forum?id=2VtveTkmzW), Lingpei Zhang, Qingming Li, Yong Yang, **Jiahao Chen**, Rui Zeng, Chenyang Lyu, Shouling Ji, ICLR 2026. [CCF-A].
+- [STAR: Strategy-driven Automatic Jailbreak Red-teaming For Large Language Model](https://openreview.net/forum?id=c2BygWVqag), Jianing Liu, Qingming Li, **Jiahao Chen**, Rui Zeng, Binbin Zhao, Shouling Ji, ICLR 2026. [CCF-A]
+- [Contextual and Seasonal LSTMs for Time Series Anomaly Detection](https://openreview.net/forum?id=2VtveTkmzW), Lingpei Zhang, Qingming Li, Yong Yang, **Jiahao Chen**, Rui Zeng, Chenyang Lyu, Shouling Ji, ICLR 2026. [CCF-A]
+- [Order within Chaos: Capturing Intrinsic Energy Anomalies for AI-Manipulated Image Forgery Localization](), Yiming Wang, Baiqi Wu, Qingming Li, Jiahao Chen, Tong Zhang, Shouling Ji, ICML 2026. [CCF-A]
+- [SOPE: Situation-Aware and Statistically Indistinguishable Privacy Exfiltration for MCP-enabled Agents](), Ruixiao Lin, Qingming Li, Jiahao Chen, Chunyi Zhou, Shouling Ji, ICML 2026. [CCF-A].
+- [Angel or Demon: Investigating the Plasticity Interventions' Impact on Backdoor Threats in Deep Reinforcement Learning](), Oubo Ma, Ruixiao Lin, Yang Dai, Jiahao Chen, Chunyi Zhou, Linkang Du, Shouling Ji, ICML 2026. [CCF-A]
+- [MADA-Attack: Transferable Multi-modal Attention Distraction Adversarial Attack against Vision Language Models](), Zhihan Qin, Jiahao Chen, Chunyi Zhou, Yuwen Pu, Chunqiang Hu, Xiaolei Liu, Shouling Ji, ICML 2026. [CCF-A]
 - [TWIST: Text-encoder Weight-editing for Inserting Secret Trojans in Text-to-Image Models](https://aclanthology.org/2025.acl-long.541/), Xindi Li, Zhe Liu, Tong Zhang, **Jiahao Chen**, Qingming Li, Jinbao Li, Shouling Ji, ACL 2025 Main. [CCF-A]
 - [Universal defensive underpainting patch: Making your text invisible to optical character recognition](https://dl.acm.org/doi/abs/10.1145/3581783.3613768), JiaCheng Deng, Li Dong, **Jiahao Chen**, Diqun Yan, Rangding Wang, Dengpan Ye, Lingchen Zhao, Jinyu Tian, ACM MM 2023. [CCF-A] [Code](https://github.com/QRICKDD/UDUP)
 - [LoRA-Hash: Unveiling Model Identity from Heavy-Tailed Weight Distributions](), Xing He, **Jiahao Chen**, Junhao Li, Feng Zhou, Shouling Ji, ICME 2026. [CCF-B]
