@@ -20,12 +20,13 @@ I am currently a Third Year Ph.D. Candidate at Zhejiang University at [NESA Lab]
 - LLM Safety: [ACL'26 Submission](), [KDD'26 Submission](), [MM'26 Submission]()
 
 # 🔥 News
-- *2026.05*: &nbsp;🎉🎉 Four paper were accepted by ICML 2026, congratulations to all collaborators!
+- *2026.05*: &nbsp;🎉🎉 Two papers were accepted by KDD 2026, congratulations to all collaborators!
+- *2026.05*: &nbsp;🎉🎉 Four papers were accepted by ICML 2026, congratulations to all collaborators!
 - *2026.04*: &nbsp;🎉🎉 Our [Report](./resources/papers/openclaw-report.pdf) is online!
 - *2026.03*: &nbsp;🎉🎉 The repositories of our [Report](https://github.com/xaddwell/awesome-openclaw-security) and [Survey](https://github.com/xaddwell/awesome-agentic-memory-safety) are online!
 - *2026.03*: &nbsp;🎉🎉 One paper was accepted by ICME 2026, congratulations to Xing!
 - *2026.02*: &nbsp;🎉🎉 One paper was accepted by TIFS 2026, congratulations to Qianli!
-- *2026.01*: &nbsp;🎉🎉 Two paper were accepted by ICLR 2026, congratulations to Linpei and Jianing!
+- *2026.01*: &nbsp;🎉🎉 Two papers were accepted by ICLR 2026, congratulations to Linpei and Jianing!
 - *2025.12*: &nbsp;🎉🎉 One paper was accepted by TIFS 2025, congratulations to God Ye!
 - *2025.11*: &nbsp;🎉🎉 One paper was accepted by KDD 2026, congratulations to God Zhou!
 - *2025.11*: &nbsp;🎉🎉 Our Trustworthy FL library ([TFLlib](https://github.com/xaddwell/TFLlib)) is opensourced !
@@ -40,6 +41,8 @@ I am currently a Third Year Ph.D. Candidate at Zhejiang University at [NESA Lab]
 
 # 📝 Publications 
 ($^\star$ denotes equal contribution) / Full list in [Google Scholar](https://scholar.google.com/citations?user=Z7SkCL8AAAAJ)
+- [LoRAShield: Data-Free Editing Alignment for Secure Personalized LoRA Sharing](), **Jiahao Chen**$^\star$, Junhao Li$^\star$, Yiming Wang, Yong Yang, Yi Jiang, Chunyi Zhou, Qingming Li, Tianyu Du, Shouling Ji, KDD 2026. [CCF-A]
+- [The Boy Who Cried Wolf: Adversarial Misclassification of Safe Inputs as Unsafe in Multimodal Guardrails](), Shuo Shi, Rui Yin, Naen Xu, **Jiahao Chen**, Chunyi Zhou, Tianyu Du, Zhihui Fu, Jun Wang, Zhaoxiang Wang, Shouling Ji, KDD 2026. [CCF-A]
 - [Order within Chaos: Capturing Intrinsic Energy Anomalies for AI-Manipulated Image Forgery Localization](), Yiming Wang, Baiqi Wu, Qingming Li, **Jiahao Chen**, Tong Zhang, Shouling Ji, ICML 2026. [CCF-A]
 - [SOPE: Situation-Aware and Statistically Indistinguishable Privacy Exfiltration for MCP-enabled Agents](), Ruixiao Lin, Qingming Li, **Jiahao Chen**, Chunyi Zhou, Shouling Ji, ICML 2026. [CCF-A]
 - [Angel or Demon: Investigating the Plasticity Interventions' Impact on Backdoor Threats in Deep Reinforcement Learning](), Oubo Ma, Ruixiao Lin, Yang Dai, **Jiahao Chen**, Chunyi Zhou, Linkang Du, Shouling Ji, ICML 2026. [CCF-A]
