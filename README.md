@@ -41,7 +41,7 @@ I am currently a Third Year Ph.D. Candidate at Zhejiang University at [NESA Lab]
 
 # 📝 Publications 
 ($^\star$ denotes equal contribution) / Full list in [Google Scholar](https://scholar.google.com/citations?user=Z7SkCL8AAAAJ)
-- [LoRAShield: Data-Free Editing Alignment for Secure Personalized LoRA Sharing](), **Jiahao Chen**$^\star$, Junhao Li$^\star$, Yiming Wang, Yong Yang, Yi Jiang, Chunyi Zhou, Qingming Li, Tianyu Du, Shouling Ji, KDD 2026. [CCF-A]
+- [LoRAShield: Data-Free Editing Alignment for Secure Personalized LoRA Sharing](https://arxiv.org/pdf/2507.07056), **Jiahao Chen**$^\star$, Junhao Li $^\star$, Yiming Wang, Yong Yang, Yi Jiang, Chunyi Zhou, Qingming Li, Tianyu Du, Shouling Ji, KDD 2026. [CCF-A]
 - [The Boy Who Cried Wolf: Adversarial Misclassification of Safe Inputs as Unsafe in Multimodal Guardrails](), Shuo Shi, Rui Yin, Naen Xu, **Jiahao Chen**, Chunyi Zhou, Tianyu Du, Zhihui Fu, Jun Wang, Zhaoxiang Wang, Shouling Ji, KDD 2026. [CCF-A]
 - [Order within Chaos: Capturing Intrinsic Energy Anomalies for AI-Manipulated Image Forgery Localization](), Yiming Wang, Baiqi Wu, Qingming Li, **Jiahao Chen**, Tong Zhang, Shouling Ji, ICML 2026. [CCF-A]
 - [SOPE: Situation-Aware and Statistically Indistinguishable Privacy Exfiltration for MCP-enabled Agents](), Ruixiao Lin, Qingming Li, **Jiahao Chen**, Chunyi Zhou, Shouling Ji, ICML 2026. [CCF-A]
@@ -76,7 +76,7 @@ I am currently a Third Year Ph.D. Candidate at Zhejiang University at [NESA Lab]
 - *2025.07 - now*, Oppo Intern, MLLM Security. -->
 
 # 💬 Service
-- *Conference Reviewers:* NeurIPS, ICLR, ICML, CVPR, ECCV, KDD, ACL, AAAI, ACM MM, AAMAS
+- *Conference Reviewers:* NeurIPS, ICLR, ICML, CVPR, ECCV, KDD, ACL, AAAI, ACM MM, AAMAS, GlobeCom
 - *Journal Reviewers:* TDSC, TIFS, TASLP, Neural Networks
 
 # 💻 Internships
