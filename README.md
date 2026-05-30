@@ -7,8 +7,8 @@ I am currently a Third Year Ph.D. Candidate at Zhejiang University at [NESA Lab]
 ### 🗡️ Risk Measurement
 
 - Adversarial Transferability: [AAAI'25](https://ojs.aaai.org/index.php/AAAI/article/view/32203), [MM'25](https://dl.acm.org/doi/abs/10.1145/3746027.3755629), [ICMR'25 Oral](https://dl.acm.org/doi/10.1145/3731715.3733325), [MASS'24](https://www.computer.org/csdl/proceedings-article/mass/2024/639900a357/21kuuM5CT28), [MM'23](https://dl.acm.org/doi/abs/10.1145/3581783.3613768), [TIFS'26](https://ieeexplore.ieee.org/document/11422989), [ICML'26]()
-- Model Hijacking: [AAAI'25](https://ojs.aaai.org/index.php/AAAI/article/view/33884), [CCS'26 Submission]()
-- Trojan Attack: [ICME'25 Oral](https://arxiv.org/abs/2505.19821), [ACL'25 Main](https://aclanthology.org/2025.acl-long.541/), [KDD'26](https://arxiv.org/abs/2512.10402), [TIFS'26](https://ieeexplore.ieee.org/document/11296926), [ICML'26](https://arxiv.org/abs/2605.14587), [TDSC'26 Submission](), 
+- Model Hijacking: [AAAI'25](https://ojs.aaai.org/index.php/AAAI/article/view/33884), [CCS'26]()
+- Trojan Attack: [ICME'25 Oral](https://arxiv.org/abs/2505.19821), [ACL'25 Main](https://aclanthology.org/2025.acl-long.541/), [KDD'26](https://arxiv.org/abs/2512.10402), [TIFS'26](https://ieeexplore.ieee.org/document/11296926), [ICML'26](https://arxiv.org/abs/2605.14587), [TDSC'26 Submission](), [ECCV'26 Submission]()
 - LLM Safety & Security: [ICLR'26](https://openreview.net/forum?id=c2BygWVqag), [KDD'26](), [ICML'26]()
 - LLM-based Attack: [MMM'26](https://link.springer.com/chapter/10.1007/978-981-95-6957-1_3), [Submission]()
 
@@ -16,10 +16,11 @@ I am currently a Third Year Ph.D. Candidate at Zhejiang University at [NESA Lab]
 
 - Backdoor Defense: [TDSC'25](https://ieeexplore.ieee.org/document/11173939), [Submission](), [Submission]()
 - Privacy Preserving: [TDSC'25](https://ieeexplore.ieee.org/abstract/document/10975146/), [MM'25](https://dl.acm.org/doi/abs/10.1145/3746027.3755629), [MM'23](https://dl.acm.org/doi/abs/10.1145/3581783.3613768), [Usenix Security'26 Submission](), [ToN'26 Submission](), 
-- Data(set)/Model Copyright: [ICME'26](), [ICML'26](), [EMNLP'26 Submission]()
+- Data(set)/Model Copyright: [ICME'26](), [ICML'26](), [EMNLP'26 Submission](), [ECCV'26 Submission]()
 - LLM Safety: [KDD'26](https://arxiv.org/pdf/2507.07056), [EMNLP'26 Submission](), [MM'26 Submission]()
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 One papers was accepted by ACM CCS 2026, congratulations to all collaborators!
 - *2026.05*: &nbsp;🎉🎉 Two papers were accepted by KDD 2026, congratulations to all collaborators!
 - *2026.05*: &nbsp;🎉🎉 Four papers were accepted by ICML 2026, congratulations to all collaborators!
 - *2026.04*: &nbsp;🎉🎉 Our [Report](./resources/papers/openclaw-report.pdf) is online!
