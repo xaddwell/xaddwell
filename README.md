@@ -16,7 +16,7 @@ I am currently a Third Year Ph.D. Candidate at Zhejiang University at [NESA Lab]
 
 - Backdoor Defense: [TDSC'25](https://ieeexplore.ieee.org/document/11173939), [Submission](), [Submission]()
 - Privacy Preserving: [TDSC'25](https://ieeexplore.ieee.org/abstract/document/10975146/), [MM'25](https://dl.acm.org/doi/abs/10.1145/3746027.3755629), [MM'23](https://dl.acm.org/doi/abs/10.1145/3581783.3613768), [ToN'26 Submission](), 
-- Data(set)/Model Copyright: [ICME'26](), [ICML'26](), [EMNLP'26 Submission](), [ECCV'26 Submission]()
+- Data(set)/Model Copyright: [ICME'26](), [ICML'26](), [EMNLP'26 Submission](), [ECCV'26]()
 - LLM Safety: [KDD'26](https://arxiv.org/pdf/2507.07056), [EMNLP'26 Submission](), [MM'26 Submission]()
 
 # 🔥 News
