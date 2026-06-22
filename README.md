@@ -1,10 +1,11 @@
 # Jiahao Chen
 
-I am currently a Third Year Ph.D. Candidate at Zhejiang University at [NESA Lab](https://nesa.zju.edu.cn/), advised by Prof. [Shouling Ji](https://scholar.google.com/citations?user=5HoF_9oAAAAJ). I received my B.S. degree with honors in Computer Science from Ningbo University (Yangming Class), advised by Prof. [Diqun Yan](http://www.yandiqun.com/). My research focuses on Trustworthy Generative AI in real-world applications, especially AI Security, AI Copyright Protection, and Privacy-Preserving AI. My long-term goal is to strengthen the source governance of AI technology and rectify illegal AI applications. Recently, I have been focusing more on the Security and Privacy risks of MLLMs and T2I models. **Looking for undergraduate or graduate students with common research interests to collaborate with.** Feel free to contact me with [wechat](./resources/image/wechat.jpg) and grab a coffee whenever you’re free.
+I am currently a Third Year Ph.D. Candidate at [NESA Lab](https://nesa.zju.edu.cn/), advised by Prof. [Shouling Ji](https://scholar.google.com/citations?user=5HoF_9oAAAAJ). I received my B.S. degree with honors in Computer Science from Ningbo University (Yangming Class), advised by Prof. [Diqun Yan](http://www.yandiqun.com/).
+My research focuses on Trustworthy Generative AI in real-world applications, especially AI Security, AI Copyright Protection, and Privacy-Preserving AI. My long-term goal is to strengthen the source governance of AI technology and rectify illegal AI applications. Recently, I have been focusing more on the Security and Privacy risks of MLLMs and T2I models.
+**Looking for undergraduate or graduate students with common research interests to collaborate with.** Feel free to contact me by email or scan my [WeChat QR code](./resources/image/wechat.jpg).
 
-## AI Risk Measurement and Mitigation 🛡️✖️🗡️ 
-
-### 🗡️ Risk Measurement
+## AI Risk Measurement and Mitigation
+### Risk Measurement
 
 - Adversarial Transferability: [AAAI'25](https://ojs.aaai.org/index.php/AAAI/article/view/32203), [MM'25](https://dl.acm.org/doi/abs/10.1145/3746027.3755629), [ICMR'25 Oral](https://dl.acm.org/doi/10.1145/3731715.3733325), [MASS'24](https://www.computer.org/csdl/proceedings-article/mass/2024/639900a357/21kuuM5CT28), [MM'23](https://dl.acm.org/doi/abs/10.1145/3581783.3613768), [TIFS'26](https://ieeexplore.ieee.org/document/11422989), [ICML'26]()
 - Model Hijacking: [AAAI'25](https://ojs.aaai.org/index.php/AAAI/article/view/33884), [CCS'26]()
@@ -12,36 +13,36 @@ I am currently a Third Year Ph.D. Candidate at Zhejiang University at [NESA Lab]
 - LLM Safety & Security: [ICLR'26](https://openreview.net/forum?id=c2BygWVqag), [KDD'26](), [ICML'26]()
 - LLM-based Attack: [MMM'26](https://link.springer.com/chapter/10.1007/978-981-95-6957-1_3), [Submission]()
 
-### 🛡️ Risk Mitigation
+### Risk Mitigation
 
 - Backdoor Defense: [TDSC'25](https://ieeexplore.ieee.org/document/11173939), [Submission](), [Submission]()
-- Privacy Preserving: [TDSC'25](https://ieeexplore.ieee.org/abstract/document/10975146/), [MM'25](https://dl.acm.org/doi/abs/10.1145/3746027.3755629), [MM'23](https://dl.acm.org/doi/abs/10.1145/3581783.3613768), [ToN'26 Submission](), 
+- Privacy Preserving: [TDSC'25](https://ieeexplore.ieee.org/abstract/document/10975146/), [MM'25](https://dl.acm.org/doi/abs/10.1145/3746027.3755629), [MM'23](https://dl.acm.org/doi/abs/10.1145/3581783.3613768), [ToN'26 Submission]()
 - Data(set)/Model Copyright: [ICME'26](), [ICML'26](), [EMNLP'26 Submission](), [ECCV'26]()
 - LLM Safety: [KDD'26](https://arxiv.org/pdf/2507.07056), [EMNLP'26 Submission](), [MM'26 Submission]()
 
-# 🔥 News
-- *2026.06*: &nbsp;🎉🎉 One papers was accepted by ECCV 2026, congratulations to Yiming!
-- *2026.05*: &nbsp;🎉🎉 One papers was accepted by ACM CCS 2026, congratulations to all collaborators!
-- *2026.05*: &nbsp;🎉🎉 Two papers were accepted by KDD 2026, congratulations to all collaborators!
-- *2026.05*: &nbsp;🎉🎉 Four papers were accepted by ICML 2026, congratulations to all collaborators!
-- *2026.04*: &nbsp;🎉🎉 Our [Report](./resources/papers/openclaw-report.pdf) is online!
-- *2026.03*: &nbsp;🎉🎉 The repositories of our [Report](https://github.com/xaddwell/awesome-openclaw-security) and [Survey](https://github.com/xaddwell/awesome-agentic-memory-safety) are online!
-- *2026.03*: &nbsp;🎉🎉 One paper was accepted by ICME 2026, congratulations to Xing!
-- *2026.02*: &nbsp;🎉🎉 One paper was accepted by TIFS 2026, congratulations to Qianli!
-- *2026.01*: &nbsp;🎉🎉 Two papers were accepted by ICLR 2026, congratulations to Linpei and Jianing!
-- *2025.12*: &nbsp;🎉🎉 One paper was accepted by TIFS 2025, congratulations to God Ye!
-- *2025.11*: &nbsp;🎉🎉 One paper was accepted by KDD 2026, congratulations to God Zhou!
-- *2025.11*: &nbsp;🎉🎉 Our Trustworthy FL library ([TFLlib](https://github.com/xaddwell/TFLlib)) is opensourced !
-- *2025.11*: &nbsp;🎉🎉 One paper was accepted by MMM 2026, congratulations to Junhao!
-- *2025.08*: &nbsp;🎉🎉 One paper was accepted by TDSC 2025, congratulations to Professor Pu!
-- *2025.07*: &nbsp;🎉🎉 One paper was accepted by MM 2025, congratulations to God Zhou!
-- *2025.05*: &nbsp;🎉🎉 One paper was accepted by ACL 2025, congratulations to Xindi!
-- *2025.04*: &nbsp;🎉🎉 One paper was accepted by TDSC 2025, congratulations to Professor Pu!
-- *2025.04*: &nbsp;🎉🎉 One paper was accepted by ICMR 2025 Oral, congratulations to Zhiming!
-- *2025.03*: &nbsp;🎉🎉 One paper was accepted by ICME 2025 Oral, congratulations to God Zhou!
-- *2024.10*: &nbsp;🎉🎉 Two papers were accepted by AAAI 2025, congratulations to Xing!
+# News
+- *2026.06*: One paper was accepted by ECCV 2026, congratulations to Yiming!
+- *2026.05*: One paper was accepted by ACM CCS 2026, congratulations to all collaborators!
+- *2026.05*: Two papers were accepted by KDD 2026, congratulations to all collaborators!
+- *2026.05*: Four papers were accepted by ICML 2026, congratulations to all collaborators!
+- *2026.04*: Our [Report](./resources/papers/openclaw-report.pdf) is online!
+- *2026.03*: The repositories of our [Report](https://github.com/xaddwell/awesome-openclaw-security) and [Survey](https://github.com/xaddwell/awesome-agentic-memory-safety) are online!
+- *2026.03*: One paper was accepted by ICME 2026, congratulations to Xing!
+- *2026.02*: One paper was accepted by TIFS 2026, congratulations to Qianli!
+- *2026.01*: Two papers were accepted by ICLR 2026, congratulations to Linpei and Jianing!
+- *2025.12*: One paper was accepted by TIFS 2025, congratulations to God Ye!
+- *2025.11*: One paper was accepted by KDD 2026, congratulations to God Zhou!
+- *2025.11*: Our Trustworthy FL library ([TFLlib](https://github.com/xaddwell/TFLlib)) is open sourced!
+- *2025.11*: One paper was accepted by MMM 2026, congratulations to Junhao!
+- *2025.08*: One paper was accepted by TDSC 2025, congratulations to Professor Pu!
+- *2025.07*: One paper was accepted by MM 2025, congratulations to God Zhou!
+- *2025.05*: One paper was accepted by ACL 2025, congratulations to Xindi!
+- *2025.04*: One paper was accepted by TDSC 2025, congratulations to Professor Pu!
+- *2025.04*: One paper was accepted by ICMR 2025 Oral, congratulations to Zhiming!
+- *2025.03*: One paper was accepted by ICME 2025 Oral, congratulations to God Zhou!
+- *2024.10*: Two papers were accepted by AAAI 2025, congratulations to Xing!
 
-# 📝 Publications 
+# Publications
 ($^\star$ denotes equal contribution) / Full list in [Google Scholar](https://scholar.google.com/citations?user=Z7SkCL8AAAAJ)
 - [FaceArmor: A Universal Facial Image Protection Against Diffusion-Based Manipulations](), Yiming Wang, **Jiahao Chen**, Qingming Li, Chunyi Zhou, Zhi Chen, Lingzhong Meng, Jinbao Li, Shouling Ji, ECCV 2026. [CCF-B]
 - [Customization under Fire: Plugin Poisoning in Text-to-Image Ecosystem](https://arxiv.org/abs/2606.09151), **Jiahao Chen**, Xing He, Yong Yang, Xinfeng Li, Chunyi Zhou, Junhao Li, Zhe Ma, Tianyu Du, and Shouling Ji, CCS 2026. [CCF-A] [Code](https://github.com/xaddwell/PoisonLoRA)
@@ -69,21 +70,17 @@ I am currently a Third Year Ph.D. Candidate at Zhejiang University at [NESA Lab]
 - [AdvUSL: Targeted Adversarial Attack against U-shaped Split Learning](https://www.computer.org/csdl/proceedings-article/mass/2024/639900a357/21kuuM5CT28), Yunxiao He, Chunqiang Hu, Yuwen Pu, **Jiahao Chen**, Xingwang Li, MASS 2024. [CCF-C]
 - [Universal defensive underpainting patch: Making your text invisible to optical character recognition](https://dl.acm.org/doi/abs/10.1145/3581783.3613768), JiaCheng Deng, Li Dong, **Jiahao Chen**, Diqun Yan, Rangding Wang, Dengpan Ye, Lingchen Zhao, Jinyu Tian, ACM MM 2023. [CCF-A] [Code](https://github.com/QRICKDD/UDUP)
 
+# Honors and Awards
+- *2025.12* 2nd PhD Program of the Young S&T Talents Cultivation Project, CAST (中国科协青年科技人才培育工程博士生专项计划).
 
-# 🎖 Honors and Awards
-- *2025.12* 2nd PhD Program of the Young S\&T Talents Cultivation Project, CAST (中国科协青年科技人才培育工程博士生专项计划). 
-
-# 📖 Educations
+# Educations
 - *2023.09 - now*, Ph.D. Candidate, Electronic Information, College of Computer Science and Technology, Zhejiang University.
 - *2019.09 - 2023.06*, B.E., Computer Science, YangMing College, Ningbo University.
 
-<!-- # 🏢 Industry Experience
-- *2025.07 - now*, Oppo Intern, MLLM Security. -->
-
-# 💬 Service
+# Service
 - *Conference Reviewers:* NeurIPS, ICLR, ICML, CVPR, ECCV, KDD, ACL, AAAI, ACM MM, AAMAS, GlobeCom
 - *Journal Reviewers:* TDSC, TIFS, TASLP, Neural Networks
 
-# 💻 Internships
+# Internships
 - *2023.05 - 2025.07*, Ant Group, Hangzhou.
 - *2025.07 - Now*, OPPO Research Institute, ShenZhen.
