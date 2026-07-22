@@ -21,6 +21,7 @@ My research focuses on Trustworthy Generative AI in real-world applications, esp
 - LLM Safety: [KDD'26](https://arxiv.org/pdf/2507.07056), [EMNLP'26 Submission](), [MM'26 Submission]()
 
 # News
+- *2026.07*: One paper was accepted by ACM CCS 2026, congratulations to Professor Ma!
 - *2026.06*: One paper was accepted by ECCV 2026, congratulations to Yiming!
 - *2026.05*: One paper was accepted by ACM CCS 2026, congratulations to all collaborators!
 - *2026.05*: Two papers were accepted by KDD 2026, congratulations to all collaborators!
