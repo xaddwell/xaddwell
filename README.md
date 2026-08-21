@@ -8,8 +8,8 @@ My research focuses on Trustworthy Generative AI in real-world applications, esp
 ### Risk Measurement
 
 - Adversarial Attack: [AAAI'25](https://ojs.aaai.org/index.php/AAAI/article/view/32203), [ICMR'25 Oral](https://dl.acm.org/doi/10.1145/3731715.3733325), [MASS'24](https://www.computer.org/csdl/proceedings-article/mass/2024/639900a357/21kuuM5CT28), [ICML'26](https://openreview.net/forum?id=ql0gSFEKAC)
-- Trojan Attack: [ICME'25 Oral](https://arxiv.org/abs/2505.19821), [ACL'25 Main](https://aclanthology.org/2025.acl-long.541/), [KDD'26](https://arxiv.org/abs/2512.10402), [TIFS'26](https://ieeexplore.ieee.org/document/11296926), [ICML'26](https://arxiv.org/abs/2605.14587), [TDSC'26 Submission](), [AAAI'27 Submission (Data Poisoning)](), [AAAI'27 Submission (PRISM)]()
-- Model Hijacking: [AAAI'25](https://ojs.aaai.org/index.php/AAAI/article/view/33884), [CCS'26](https://arxiv.org/abs/2606.09151)
+- Trojan Attack: [ICME'25 Oral](https://arxiv.org/abs/2505.19821), [ACL'25 Main](https://aclanthology.org/2025.acl-long.541/), [KDD'26](https://arxiv.org/abs/2512.10402), [TIFS'26](https://ieeexplore.ieee.org/document/11296926), [ICML'26](https://arxiv.org/abs/2605.14587), [TDSC'26 Submission](), [AAAI'27 Submission (Data Poisoning)](), [AAAI'27 Submission (PRISM)](), [KDD'27 Submission](), [NeurIPS'26 Submission]()
+- Model Hijacking: [AAAI'25](https://ojs.aaai.org/index.php/AAAI/article/view/33884), [CCS'26](https://arxiv.org/abs/2606.09151), [KDD'27 Submission]()
 - LLM & MLLM Security: [ICLR'26](https://openreview.net/forum?id=c2BygWVqag), [KDD'26](https://dl.acm.org/doi/abs/10.1145/3770855.3817756), [EMNLP'26 Findings](), [MMM'26](https://link.springer.com/chapter/10.1007/978-981-95-6957-1_3), [Submission]()
 - Agent Security: [ICML'26](), [AAAI'27 Submission](), [Survey](https://github.com/xaddwell/awesome-agentic-memory-safety), [Report](https://github.com/xaddwell/awesome-openclaw-security)
 
