@@ -7,17 +7,17 @@ My research focuses on Trustworthy Generative AI in real-world applications, esp
 ## AI Risk Measurement and Mitigation
 ### Risk Measurement
 
-- Adversarial Attack: [AAAI'25](https://ojs.aaai.org/index.php/AAAI/article/view/32203), [ICMR'25 Oral](https://dl.acm.org/doi/10.1145/3731715.3733325), [MASS'24](https://www.computer.org/csdl/proceedings-article/mass/2024/639900a357/21kuuM5CT28), [ICML'26]()
+- Adversarial Attack: [AAAI'25](https://ojs.aaai.org/index.php/AAAI/article/view/32203), [ICMR'25 Oral](https://dl.acm.org/doi/10.1145/3731715.3733325), [MASS'24](https://www.computer.org/csdl/proceedings-article/mass/2024/639900a357/21kuuM5CT28), [ICML'26](https://openreview.net/forum?id=ql0gSFEKAC)
 - Trojan Attack: [ICME'25 Oral](https://arxiv.org/abs/2505.19821), [ACL'25 Main](https://aclanthology.org/2025.acl-long.541/), [KDD'26](https://arxiv.org/abs/2512.10402), [TIFS'26](https://ieeexplore.ieee.org/document/11296926), [ICML'26](https://arxiv.org/abs/2605.14587), [TDSC'26 Submission]()
 - Model Hijacking: [AAAI'25](https://ojs.aaai.org/index.php/AAAI/article/view/33884), [CCS'26](https://arxiv.org/abs/2606.09151)
-- LLM & MLLM Security: [ICLR'26](https://openreview.net/forum?id=c2BygWVqag), [KDD'26](), [EMNLP'26 Findings](), [MMM'26](https://link.springer.com/chapter/10.1007/978-981-95-6957-1_3), [Submission]()
+- LLM & MLLM Security: [ICLR'26](https://openreview.net/forum?id=c2BygWVqag), [KDD'26](https://dl.acm.org/doi/abs/10.1145/3770855.3817756), [EMNLP'26 Findings](), [MMM'26](https://link.springer.com/chapter/10.1007/978-981-95-6957-1_3), [Submission]()
 - Agent Security: [ICML'26](), [Survey](https://github.com/xaddwell/awesome-agentic-memory-safety), [Report](https://github.com/xaddwell/awesome-openclaw-security)
 
 ### Risk Mitigation
 
 - Backdoor Defense: [TDSC'25](https://ieeexplore.ieee.org/document/11173939), [Submission](), [Submission]()
 - Privacy Protection: [TDSC'25](https://ieeexplore.ieee.org/abstract/document/10975146/), [MM'25](https://dl.acm.org/doi/abs/10.1145/3746027.3755629), [TIFS'26](https://ieeexplore.ieee.org/document/11422989), [MM'23](https://dl.acm.org/doi/abs/10.1145/3581783.3613768), [ECCV'26](), [ToN'26 Submission]()
-- Data & Model Copyright: [ICME'26](), [KDD'26](https://arxiv.org/pdf/2507.07056), [ICML'26]()
+- Data & Model Copyright: [ICME'26](), [KDD'26](https://arxiv.org/pdf/2507.07056), [ICML'26](https://openreview.net/forum?id=1BLni5Uxsd)
 - LLM & Agent Safety: [EMNLP'26 Findings](), [MM'26 Submission]()
 
 # News
@@ -51,11 +51,11 @@ My research focuses on Trustworthy Generative AI in real-world applications, esp
 - [FaceArmor: A Universal Facial Image Protection Against Diffusion-Based Manipulations](), Yiming Wang, **Jiahao Chen**, Qingming Li, Chunyi Zhou, Zhi Chen, Lingzhong Meng, Jinbao Li, Shouling Ji, ECCV 2026. [CCF-B]
 - [Customization under Fire: Plugin Poisoning in Text-to-Image Ecosystem](https://arxiv.org/abs/2606.09151), **Jiahao Chen**, Xing He, Yong Yang, Xinfeng Li, Chunyi Zhou, Junhao Li, Zhe Ma, Tianyu Du, and Shouling Ji, CCS 2026. [CCF-A] [Code](https://github.com/xaddwell/PoisonLoRA)
 - [LoRAShield: Data-Free Editing Alignment for Secure Personalized LoRA Sharing](https://arxiv.org/pdf/2507.07056), **Jiahao Chen**$^\star$, Junhao Li $^\star$, Yiming Wang, Yong Yang, Yi Jiang, Chunyi Zhou, Qingming Li, Tianyu Du, Shouling Ji, KDD 2026. [CCF-A]
-- [The Boy Who Cried Wolf: Adversarial Misclassification of Safe Inputs as Unsafe in Multimodal Guardrails](), Shuo Shi, Rui Yin, Naen Xu, **Jiahao Chen**, Chunyi Zhou, Tianyu Du, Zhihui Fu, Jun Wang, Zhaoxiang Wang, Shouling Ji, KDD 2026. [CCF-A] [Code](https://github.com/DoubleS-S/crying_wolf_usd/tree/dev)
-- [Order within Chaos: Capturing Intrinsic Energy Anomalies for AI-Manipulated Image Forgery Localization](), Yiming Wang, Baiqi Wu, Qingming Li, **Jiahao Chen**, Tong Zhang, Shouling Ji, ICML 2026. [CCF-A]
+- [The Boy Who Cried Wolf: Adversarial Misclassification of Safe Inputs as Unsafe in Multimodal Guardrails](https://dl.acm.org/doi/abs/10.1145/3770855.3817756), Shuo Shi, Rui Yin, Naen Xu, **Jiahao Chen**, Chunyi Zhou, Tianyu Du, Zhihui Fu, Jun Wang, Zhaoxiang Wang, Shouling Ji, KDD 2026. [CCF-A] [Code](https://github.com/DoubleS-S/crying_wolf_usd/tree/dev)
+- [Order within Chaos: Capturing Intrinsic Energy Anomalies for AI-Manipulated Image Forgery Localization](https://openreview.net/forum?id=1BLni5Uxsd), Yiming Wang, Baiqi Wu, Qingming Li, **Jiahao Chen**, Tong Zhang, Shouling Ji, ICML 2026. [CCF-A]
 - [SOPE: Situation-Aware and Statistically Indistinguishable Privacy Exfiltration for MCP-enabled Agents](), Ruixiao Lin, Qingming Li, **Jiahao Chen**, Chunyi Zhou, Shouling Ji, ICML 2026. [CCF-A]
 - [Angel or Demon: Investigating the Plasticity Interventions' Impact on Backdoor Threats in Deep Reinforcement Learning](https://arxiv.org/abs/2605.14587), Oubo Ma, Ruixiao Lin, Yang Dai, **Jiahao Chen**, Chunyi Zhou, Linkang Du, Shouling Ji, ICML 2026. [CCF-A]
-- [MADA-Attack: Transferable Multi-modal Attention Distraction Adversarial Attack against Vision Language Models](), Zhihan Qin $^\star$, **Jiahao Chen**$^\star$, Chunyi Zhou, Yuwen Pu, Chunqiang Hu, Xiaolei Liu, Shouling Ji, ICML 2026. [CCF-A]
+- [MADA-Attack: Transferable Multi-modal Attention Distraction Adversarial Attack against Vision Language Models](https://openreview.net/forum?id=ql0gSFEKAC), Zhihan Qin $^\star$, **Jiahao Chen**$^\star$, Chunyi Zhou, Yuwen Pu, Chunqiang Hu, Xiaolei Liu, Shouling Ji, ICML 2026. [CCF-A]
 - [LoRA-Hash: Unveiling Model Identity from Heavy-Tailed Weight Distributions](), Xing He, **Jiahao Chen**, Junhao Li, Feng Zhou, Shouling Ji, ICME 2026. [CCF-B]
 - [DUAP: Disentanglement-based Universal Adversarial Perturbations for Robust Multilingual Speech Privacy Protection](https://ieeexplore.ieee.org/document/11422989), Qianli Ma, Wenjie Zhang, **Jiahao Chen**, et al., TIFS 2026. [CCF-A]
 - [STAR: Strategy-driven Automatic Jailbreak Red-teaming For Large Language Model](https://openreview.net/forum?id=c2BygWVqag), Jianing Liu, Qingming Li, **Jiahao Chen**, Rui Zeng, Binbin Zhao, Shouling Ji, ICLR 2026. [CCF-A] [Code](https://github.com/Outlier01/STAR/tree/main)
