@@ -8,17 +8,17 @@ My research focuses on Trustworthy Generative AI in real-world applications, esp
 ### Risk Measurement
 
 - Adversarial Attack: [AAAI'25](https://ojs.aaai.org/index.php/AAAI/article/view/32203), [ICMR'25 Oral](https://dl.acm.org/doi/10.1145/3731715.3733325), [MASS'24](https://www.computer.org/csdl/proceedings-article/mass/2024/639900a357/21kuuM5CT28), [ICML'26](https://openreview.net/forum?id=ql0gSFEKAC)
-- Trojan Attack: [ICME'25 Oral](https://arxiv.org/abs/2505.19821), [ACL'25 Main](https://aclanthology.org/2025.acl-long.541/), [KDD'26](https://arxiv.org/abs/2512.10402), [TIFS'26](https://ieeexplore.ieee.org/document/11296926), [ICML'26](https://arxiv.org/abs/2605.14587), [TDSC'26 Submission]()
+- Trojan Attack: [ICME'25 Oral](https://arxiv.org/abs/2505.19821), [ACL'25 Main](https://aclanthology.org/2025.acl-long.541/), [KDD'26](https://arxiv.org/abs/2512.10402), [TIFS'26](https://ieeexplore.ieee.org/document/11296926), [ICML'26](https://arxiv.org/abs/2605.14587), [TDSC'26 Submission](), [AAAI'27 Submission (Data Poisoning)](), [AAAI'27 Submission (PRISM)]()
 - Model Hijacking: [AAAI'25](https://ojs.aaai.org/index.php/AAAI/article/view/33884), [CCS'26](https://arxiv.org/abs/2606.09151)
 - LLM & MLLM Security: [ICLR'26](https://openreview.net/forum?id=c2BygWVqag), [KDD'26](https://dl.acm.org/doi/abs/10.1145/3770855.3817756), [EMNLP'26 Findings](), [MMM'26](https://link.springer.com/chapter/10.1007/978-981-95-6957-1_3), [Submission]()
-- Agent Security: [ICML'26](), [Survey](https://github.com/xaddwell/awesome-agentic-memory-safety), [Report](https://github.com/xaddwell/awesome-openclaw-security)
+- Agent Security: [ICML'26](), [AAAI'27 Submission](), [Survey](https://github.com/xaddwell/awesome-agentic-memory-safety), [Report](https://github.com/xaddwell/awesome-openclaw-security)
 
 ### Risk Mitigation
 
 - Backdoor Defense: [TDSC'25](https://ieeexplore.ieee.org/document/11173939), [Submission](), [Submission]()
 - Privacy Protection: [TDSC'25](https://ieeexplore.ieee.org/abstract/document/10975146/), [MM'25](https://dl.acm.org/doi/abs/10.1145/3746027.3755629), [TIFS'26](https://ieeexplore.ieee.org/document/11422989), [MM'23](https://dl.acm.org/doi/abs/10.1145/3581783.3613768), [ECCV'26](), [ToN'26 Submission]()
-- Data & Model Copyright: [ICME'26](), [KDD'26](https://arxiv.org/pdf/2507.07056), [ICML'26](https://openreview.net/forum?id=1BLni5Uxsd)
-- LLM & Agent Safety: [EMNLP'26 Findings](), [MM'26 Submission]()
+- Data & Model Copyright: [ICME'26](), [KDD'26](https://arxiv.org/pdf/2507.07056), [ICML'26](https://openreview.net/forum?id=1BLni5Uxsd), [AAAI'27 Submission]()
+- LLM & Agent Safety: [EMNLP'26 Findings](), [AAAI'27 Submission](), [MM'26 Submission]()
 
 # News
 - *2026.08*: Two paper were accepted by EMNLP 2026 Findings, congratulations to all collaborators!
