@@ -21,6 +21,7 @@ My research focuses on Trustworthy Generative AI in real-world applications, esp
 - LLM Safety: [KDD'26](https://arxiv.org/pdf/2507.07056), [EMNLP'26 Submission](), [MM'26 Submission]()
 
 # News
+- *2026.08*: Two paper were accepted by EMNLP 2026 Findings, congratulations to all collaborators!
 - *2026.07*: One paper was accepted by ACM CCS 2026, congratulations to Professor Ma!
 - *2026.06*: One paper was accepted by ECCV 2026, congratulations to Yiming!
 - *2026.05*: One paper was accepted by ACM CCS 2026, congratulations to all collaborators!
@@ -45,6 +46,8 @@ My research focuses on Trustworthy Generative AI in real-world applications, esp
 
 # Publications
 ($^\star$ denotes equal contribution) / Full list in [Google Scholar](https://scholar.google.com/citations?user=Z7SkCL8AAAAJ)
+- [Attributing and Exploiting Safety Vectors through Global Optimization in Large Language Models](), Fengheng Chu, **Jiahao Chen**, Yuhong Wang, Jun Wang, Zhihui Fu, Shouling Ji, Lu Dong, Songze Li, EMNLP 2026 Findings. [CCF-B],
+- [Beyond Over-Refusal: Defending Indirect Prompt Injection via Latent Instruction Manifolds](), **Jiahao Chen**, Rui Yin, Xinfeng Li, Qianli Ma, Tianyu Du, Zhihui Fu, Jun Wang, Zhaoxiang Wang, Shouling Ji, EMNLP 2026 Findings. [CCF-B],
 - [FaceArmor: A Universal Facial Image Protection Against Diffusion-Based Manipulations](), Yiming Wang, **Jiahao Chen**, Qingming Li, Chunyi Zhou, Zhi Chen, Lingzhong Meng, Jinbao Li, Shouling Ji, ECCV 2026. [CCF-B]
 - [Customization under Fire: Plugin Poisoning in Text-to-Image Ecosystem](https://arxiv.org/abs/2606.09151), **Jiahao Chen**, Xing He, Yong Yang, Xinfeng Li, Chunyi Zhou, Junhao Li, Zhe Ma, Tianyu Du, and Shouling Ji, CCS 2026. [CCF-A] [Code](https://github.com/xaddwell/PoisonLoRA)
 - [LoRAShield: Data-Free Editing Alignment for Secure Personalized LoRA Sharing](https://arxiv.org/pdf/2507.07056), **Jiahao Chen**$^\star$, Junhao Li $^\star$, Yiming Wang, Yong Yang, Yi Jiang, Chunyi Zhou, Qingming Li, Tianyu Du, Shouling Ji, KDD 2026. [CCF-A]
