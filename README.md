@@ -1,24 +1,24 @@
 # Jiahao Chen
 
-I am currently a Third Year Ph.D. Candidate at [NESA Lab](https://nesa.zju.edu.cn/), advised by Prof. [Shouling Ji](https://scholar.google.com/citations?user=5HoF_9oAAAAJ). I received my B.S. degree with honors in Computer Science from Ningbo University (Yangming Class), advised by Prof. [Diqun Yan](http://www.yandiqun.com/).
-My research focuses on Trustworthy Generative AI in real-world applications, especially AI Security, AI Copyright Protection, and Privacy-Preserving AI. My long-term goal is to strengthen the source governance of AI technology and rectify illegal AI applications. Recently, I have been focusing more on the Security and Privacy risks of MLLMs and T2I models.
+I am currently a Fourth Year Ph.D. Candidate at [NESA Lab](https://nesa.zju.edu.cn/), advised by Prof. [Shouling Ji](https://scholar.google.com/citations?user=5HoF_9oAAAAJ). I received my B.S. degree with honors in Computer Science from Ningbo University (Yangming Class), advised by Prof. [Diqun Yan](http://www.yandiqun.com/).
+My research focuses on Trustworthy Generative AI in real-world applications, especially AI Security, AI Copyright Protection, and Privacy-Preserving AI. My long-term goal is to strengthen the source governance of AI technology and rectify illegal AI applications. Recently, I have been focusing more on the Security and Privacy risks of MLLMs, T2I models, and LLM Agents.
 **Looking for undergraduate or graduate students with common research interests to collaborate with.** Feel free to contact me by email or scan my [WeChat QR code](./resources/image/wechat.jpg).
 
 ## AI Risk Measurement and Mitigation
 ### Risk Measurement
 
-- Adversarial Transferability: [AAAI'25](https://ojs.aaai.org/index.php/AAAI/article/view/32203), [MM'25](https://dl.acm.org/doi/abs/10.1145/3746027.3755629), [ICMR'25 Oral](https://dl.acm.org/doi/10.1145/3731715.3733325), [MASS'24](https://www.computer.org/csdl/proceedings-article/mass/2024/639900a357/21kuuM5CT28), [MM'23](https://dl.acm.org/doi/abs/10.1145/3581783.3613768), [TIFS'26](https://ieeexplore.ieee.org/document/11422989), [ICML'26]()
-- Model Hijacking: [AAAI'25](https://ojs.aaai.org/index.php/AAAI/article/view/33884), [CCS'26]()
+- Adversarial Attack: [AAAI'25](https://ojs.aaai.org/index.php/AAAI/article/view/32203), [ICMR'25 Oral](https://dl.acm.org/doi/10.1145/3731715.3733325), [MASS'24](https://www.computer.org/csdl/proceedings-article/mass/2024/639900a357/21kuuM5CT28), [ICML'26]()
 - Trojan Attack: [ICME'25 Oral](https://arxiv.org/abs/2505.19821), [ACL'25 Main](https://aclanthology.org/2025.acl-long.541/), [KDD'26](https://arxiv.org/abs/2512.10402), [TIFS'26](https://ieeexplore.ieee.org/document/11296926), [ICML'26](https://arxiv.org/abs/2605.14587), [TDSC'26 Submission]()
-- LLM Safety & Security: [ICLR'26](https://openreview.net/forum?id=c2BygWVqag), [KDD'26](), [ICML'26]()
-- LLM-based Attack: [MMM'26](https://link.springer.com/chapter/10.1007/978-981-95-6957-1_3), [Submission]()
+- Model Hijacking: [AAAI'25](https://ojs.aaai.org/index.php/AAAI/article/view/33884), [CCS'26](https://arxiv.org/abs/2606.09151)
+- LLM & MLLM Security: [ICLR'26](https://openreview.net/forum?id=c2BygWVqag), [KDD'26](), [EMNLP'26 Findings](), [MMM'26](https://link.springer.com/chapter/10.1007/978-981-95-6957-1_3), [Submission]()
+- Agent Security: [ICML'26](), [Survey](https://github.com/xaddwell/awesome-agentic-memory-safety), [Report](https://github.com/xaddwell/awesome-openclaw-security)
 
 ### Risk Mitigation
 
 - Backdoor Defense: [TDSC'25](https://ieeexplore.ieee.org/document/11173939), [Submission](), [Submission]()
-- Privacy Preserving: [TDSC'25](https://ieeexplore.ieee.org/abstract/document/10975146/), [MM'25](https://dl.acm.org/doi/abs/10.1145/3746027.3755629), [MM'23](https://dl.acm.org/doi/abs/10.1145/3581783.3613768), [ToN'26 Submission]()
-- Data(set)/Model Copyright: [ICME'26](), [ICML'26](), [EMNLP'26 Submission](), [ECCV'26]()
-- LLM Safety: [KDD'26](https://arxiv.org/pdf/2507.07056), [EMNLP'26 Submission](), [MM'26 Submission]()
+- Privacy Protection: [TDSC'25](https://ieeexplore.ieee.org/abstract/document/10975146/), [MM'25](https://dl.acm.org/doi/abs/10.1145/3746027.3755629), [TIFS'26](https://ieeexplore.ieee.org/document/11422989), [MM'23](https://dl.acm.org/doi/abs/10.1145/3581783.3613768), [ECCV'26](), [ToN'26 Submission]()
+- Data & Model Copyright: [ICME'26](), [KDD'26](https://arxiv.org/pdf/2507.07056), [ICML'26]()
+- LLM & Agent Safety: [EMNLP'26 Findings](), [MM'26 Submission]()
 
 # News
 - *2026.08*: Two paper were accepted by EMNLP 2026 Findings, congratulations to all collaborators!
@@ -46,8 +46,8 @@ My research focuses on Trustworthy Generative AI in real-world applications, esp
 
 # Publications
 ($^\star$ denotes equal contribution) / Full list in [Google Scholar](https://scholar.google.com/citations?user=Z7SkCL8AAAAJ)
-- [Attributing and Exploiting Safety Vectors through Global Optimization in Large Language Models](), Fengheng Chu, **Jiahao Chen**, Yuhong Wang, Jun Wang, Zhihui Fu, Shouling Ji, Lu Dong, Songze Li, EMNLP 2026 Findings. [CCF-B],
-- [Beyond Over-Refusal: Defending Indirect Prompt Injection via Latent Instruction Manifolds](), **Jiahao Chen**, Rui Yin, Xinfeng Li, Qianli Ma, Tianyu Du, Zhihui Fu, Jun Wang, Zhaoxiang Wang, Shouling Ji, EMNLP 2026 Findings. [CCF-B],
+- [Attributing and Exploiting Safety Vectors through Global Optimization in Large Language Models](), Fengheng Chu, **Jiahao Chen**, Yuhong Wang, Jun Wang, Zhihui Fu, Shouling Ji, Lu Dong, Songze Li, EMNLP 2026 Findings. [CCF-B]
+- [Beyond Over-Refusal: Defending Indirect Prompt Injection via Latent Instruction Manifolds](), **Jiahao Chen**, Rui Yin, Xinfeng Li, Qianli Ma, Tianyu Du, Zhihui Fu, Jun Wang, Zhaoxiang Wang, Shouling Ji, EMNLP 2026 Findings. [CCF-B]
 - [FaceArmor: A Universal Facial Image Protection Against Diffusion-Based Manipulations](), Yiming Wang, **Jiahao Chen**, Qingming Li, Chunyi Zhou, Zhi Chen, Lingzhong Meng, Jinbao Li, Shouling Ji, ECCV 2026. [CCF-B]
 - [Customization under Fire: Plugin Poisoning in Text-to-Image Ecosystem](https://arxiv.org/abs/2606.09151), **Jiahao Chen**, Xing He, Yong Yang, Xinfeng Li, Chunyi Zhou, Junhao Li, Zhe Ma, Tianyu Du, and Shouling Ji, CCS 2026. [CCF-A] [Code](https://github.com/xaddwell/PoisonLoRA)
 - [LoRAShield: Data-Free Editing Alignment for Secure Personalized LoRA Sharing](https://arxiv.org/pdf/2507.07056), **Jiahao Chen**$^\star$, Junhao Li $^\star$, Yiming Wang, Yong Yang, Yi Jiang, Chunyi Zhou, Qingming Li, Tianyu Du, Shouling Ji, KDD 2026. [CCF-A]
@@ -87,4 +87,5 @@ My research focuses on Trustworthy Generative AI in real-world applications, esp
 
 # Internships
 - *2023.05 - 2025.07*, Ant Group, Hangzhou.
-- *2025.07 - Now*, OPPO Research Institute, ShenZhen.
+- *2025.07 - 2026.07*, OPPO Research Institute, ShenZhen.
+- *2026.08 - Now*, Alibaba Security (阿里安全), Hangzhou. Research on Agent Security (智能体安全).
