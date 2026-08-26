@@ -16,7 +16,7 @@ My research focuses on Trustworthy Generative AI in real-world applications, esp
 ### Risk Mitigation
 
 - Backdoor Defense: [TDSC'25](https://ieeexplore.ieee.org/document/11173939), [Submission](), [Submission]()
-- Privacy Protection: [TDSC'25](https://ieeexplore.ieee.org/abstract/document/10975146/), [MM'25](https://dl.acm.org/doi/abs/10.1145/3746027.3755629), [TIFS'26](https://ieeexplore.ieee.org/document/11422989), [MM'23](https://dl.acm.org/doi/abs/10.1145/3581783.3613768), [ECCV'26](), [ToN'26 Submission]()
+- Privacy Protection: [TDSC'25](https://ieeexplore.ieee.org/abstract/document/10975146/), [MM'25](https://dl.acm.org/doi/abs/10.1145/3746027.3755629), [TIFS'26](https://ieeexplore.ieee.org/document/11422989), [MM'23](https://dl.acm.org/doi/abs/10.1145/3581783.3613768), [ECCV'26](https://eccv.ecva.net/virtual/2026/poster/5785), [ToN'26 Submission]()
 - Data & Model Copyright: [ICME'26](https://nesa.zju.edu.cn/download/icme2026__camera.pdf), [KDD'26](https://arxiv.org/pdf/2507.07056), [ICML'26](https://openreview.net/forum?id=1BLni5Uxsd), [AAAI'27 Submission]()
 - LLM & Agent Safety: [CCS'26](https://arxiv.org/abs/2605.05271), [EMNLP'26 Findings](), [AAAI'27 Submission]()
 
@@ -48,7 +48,7 @@ My research focuses on Trustworthy Generative AI in real-world applications, esp
 ($^\star$ denotes equal contribution) / Full list in [Google Scholar](https://scholar.google.com/citations?user=Z7SkCL8AAAAJ)
 - [Attributing and Exploiting Safety Vectors through Global Optimization in Large Language Models](https://arxiv.org/abs/2601.15801), Fengheng Chu, **Jiahao Chen**, Yuhong Wang, Jun Wang, Zhihui Fu, Shouling Ji, Lu Dong, Songze Li, EMNLP 2026 Findings. [CCF-B]
 - [Beyond Over-Refusal: Defending Indirect Prompt Injection via Latent Instruction Manifolds](), **Jiahao Chen**, Rui Yin, Xinfeng Li, Qianli Ma, Tianyu Du, Zhihui Fu, Jun Wang, Zhaoxiang Wang, Shouling Ji, EMNLP 2026 Findings. [CCF-B]
-- [FaceArmor: A Universal Facial Image Protection Against Diffusion-Based Manipulations](), Yiming Wang, **Jiahao Chen**, Qingming Li, Chunyi Zhou, Zhi Chen, Lingzhong Meng, Jinbao Li, Shouling Ji, ECCV 2026. [CCF-B]
+- [FaceArmor: A Universal Facial Image Protection Against Diffusion-Based Manipulations](https://eccv.ecva.net/virtual/2026/poster/5785), Yiming Wang, **Jiahao Chen**, Qingming Li, Chunyi Zhou, Zhi Chen, Lingzhong Meng, Jinbao Li, Shouling Ji, ECCV 2026. [CCF-B]
 - [Customization under Fire: Plugin Poisoning in Text-to-Image Ecosystem](https://arxiv.org/abs/2606.09151), **Jiahao Chen**, Xing He, Yong Yang, Xinfeng Li, Chunyi Zhou, Junhao Li, Zhe Ma, Tianyu Du, and Shouling Ji, CCS 2026. [CCF-A] [Code](https://github.com/xaddwell/PoisonLoRA)
 - [IntraGuard: Committee-Side Defenses Against Review Outsourcing to Commercial Chatbots](https://arxiv.org/abs/2605.05271), Oubo Ma, Ruixiao Lin, **Jiahao Chen**, Yuan Su, Yong Yang, Shouling Ji, CCS 2026. [CCF-A] [Code](https://github.com/maoubo/IntraGuard)
 - [LoRAShield: Data-Free Editing Alignment for Secure Personalized LoRA Sharing](https://arxiv.org/pdf/2507.07056), **Jiahao Chen**$^\star$, Junhao Li $^\star$, Yiming Wang, Yong Yang, Yi Jiang, Chunyi Zhou, Qingming Li, Tianyu Du, Shouling Ji, KDD 2026. [CCF-A]
