@@ -17,8 +17,8 @@ My research focuses on Trustworthy Generative AI in real-world applications, esp
 
 - Backdoor Defense: [TDSC'25](https://ieeexplore.ieee.org/document/11173939), [Submission](), [Submission]()
 - Privacy Protection: [TDSC'25](https://ieeexplore.ieee.org/abstract/document/10975146/), [MM'25](https://dl.acm.org/doi/abs/10.1145/3746027.3755629), [TIFS'26](https://ieeexplore.ieee.org/document/11422989), [MM'23](https://dl.acm.org/doi/abs/10.1145/3581783.3613768), [ECCV'26](https://eccv.ecva.net/virtual/2026/poster/5785), [ToN'26 Submission]()
-- Data & Model Copyright: [ICME'26](https://nesa.zju.edu.cn/download/icme2026__camera.pdf), [KDD'26](https://arxiv.org/pdf/2507.07056), [ICML'26](https://openreview.net/forum?id=1BLni5Uxsd), [AAAI'27 Submission]()
-- LLM & Agent Safety: [CCS'26](https://arxiv.org/abs/2605.05271), [TDSC'26](https://arxiv.org/abs/2412.18123), [EMNLP'26 Findings](), [AAAI'27 Submission]()
+- Data & Model Copyright: [ICME'26](https://nesa.zju.edu.cn/download/icme2026__camera.pdf), [KDD'26](https://arxiv.org/pdf/2507.07056), [ICML'26](https://openreview.net/forum?id=1BLni5Uxsd), [AAAI'27 Submission](), [Submission (Audio DeepFake Detection)](), [Submission (Prompt Copyright)]()
+- LLM & Agent Safety: [CCS'26](https://arxiv.org/abs/2605.05271), [TDSC'26](https://arxiv.org/abs/2412.18123), [EMNLP'26 Findings](), [AAAI'27 Submission](), [Submission (T2I Content Safety)]()
 
 # News
 - *2026.08*: One paper was accepted by IEEE TDSC 2026, congratulations to Yiming!
