@@ -11,7 +11,7 @@ My research focuses on Trustworthy Generative AI in real-world applications, esp
 - Trojan Attack: [ICME'25 Oral](https://arxiv.org/abs/2505.19821), [ACL'25 Main](https://aclanthology.org/2025.acl-long.541/), [KDD'26](https://arxiv.org/abs/2512.10402), [TIFS'26](https://ieeexplore.ieee.org/document/11296926), [ICML'26](https://arxiv.org/abs/2605.14587), [TDSC'26 Submission](), [AAAI'27 Submission (Data Poisoning)](), [AAAI'27 Submission (PRISM)](), [KDD'27 Submission](), [NeurIPS'26 Submission]()
 - Model Hijacking: [AAAI'25](https://ojs.aaai.org/index.php/AAAI/article/view/33884), [CCS'26](https://arxiv.org/abs/2606.09151), [KDD'27 Submission]()
 - LLM & MLLM Security: [ICLR'26](https://openreview.net/forum?id=c2BygWVqag), [KDD'26](https://dl.acm.org/doi/abs/10.1145/3770855.3817756), [EMNLP'26 Findings](https://arxiv.org/abs/2601.15801), [MMM'26](https://link.springer.com/chapter/10.1007/978-981-95-6957-1_3), [Submission]()
-- Agent Security: [ICML'26](https://openreview.net/forum?id=Ra0pui9HXF), [AAAI'27 Submission](), [Survey](https://github.com/xaddwell/awesome-agentic-memory-safety), [Report](https://github.com/xaddwell/awesome-openclaw-security)
+- Agent Security: [ICML'26](https://openreview.net/forum?id=Ra0pui9HXF), [AAAI'27 Submission](), [Survey (Self-Evolving)](https://xaddwell.github.io/Awesome-Self-Evolving-Agent-Safety/), [Survey (Agentic Memory)](https://github.com/xaddwell/awesome-agentic-memory-safety), [Report](https://github.com/xaddwell/awesome-openclaw-security)
 
 ### Risk Mitigation
 
@@ -48,6 +48,7 @@ My research focuses on Trustworthy Generative AI in real-world applications, esp
 
 # Publications
 ($^\star$ denotes equal contribution) / Full list in [Google Scholar](https://scholar.google.com/citations?user=Z7SkCL8AAAAJ)
+- [Safety in Self-Evolving Agents: A Survey](https://xaddwell.github.io/Awesome-Self-Evolving-Agent-Safety/), **Jiahao Chen**, Zhou Feng, Oubo Ma, Yichen Yan, Ruixiao Lin, et al., Survey. [PDF](https://xaddwell.github.io/Awesome-Self-Evolving-Agent-Safety/assets/SAVER-Survey.pdf)
 - [Attributing and Exploiting Safety Vectors through Global Optimization in Large Language Models](https://arxiv.org/abs/2601.15801), Fengheng Chu, **Jiahao Chen**, Yuhong Wang, Jun Wang, Zhihui Fu, Shouling Ji, Lu Dong, Songze Li, EMNLP 2026 Findings. [CCF-B]
 - [Beyond Over-Refusal: Defending Indirect Prompt Injection via Latent Instruction Manifolds](), **Jiahao Chen**, Rui Yin, Xinfeng Li, Qianli Ma, Tianyu Du, Zhihui Fu, Jun Wang, Zhaoxiang Wang, Shouling Ji, EMNLP 2026 Findings. [CCF-B] [Code](https://github.com/xaddwell/AEGIS)
 - [FaceArmor: A Universal Facial Image Protection Against Diffusion-Based Manipulations](https://eccv.ecva.net/virtual/2026/poster/5785), Yiming Wang, **Jiahao Chen**, Qingming Li, Chunyi Zhou, Zhi Chen, Lingzhong Meng, Jinbao Li, Shouling Ji, ECCV 2026. [CCF-B]
