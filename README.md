@@ -21,6 +21,7 @@ My research focuses on Trustworthy Generative AI in real-world applications, esp
 - LLM & Agent Safety: [CCS'26](https://arxiv.org/abs/2605.05271), [TDSC'26](https://arxiv.org/abs/2412.18123), [EMNLP'26 Findings](), [AAAI'27 Submission](), [Submission (T2I Content Safety)]()
 
 # News
+- *2026.08*: Our survey on [Safety in Self-Evolving Agents](https://xaddwell.github.io/Awesome-Self-Evolving-Agent-Safety/) is online!
 - *2026.08*: Our [PoisonLoRA](https://github.com/xaddwell/PoisonLoRA) was selected as a poster at CCSC 2026!
 - *2026.08*: One paper was accepted by IEEE TDSC 2026, congratulations to Yiming!
 - *2026.08*: Two paper were accepted by EMNLP 2026 Findings, congratulations to all collaborators!
