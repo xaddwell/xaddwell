@@ -81,6 +81,7 @@ My research focuses on Trustworthy Generative AI in real-world applications, esp
 - [Universal defensive underpainting patch: Making your text invisible to optical character recognition](https://dl.acm.org/doi/abs/10.1145/3581783.3613768), JiaCheng Deng, Li Dong, **Jiahao Chen**, Diqun Yan, Rangding Wang, Dengpan Ye, Lingchen Zhao, Jinyu Tian, ACM MM 2023. [CCF-A] [Code](https://github.com/QRICKDD/UDUP)
 
 # Honors and Awards
+- *2026.08* Best Poster Award at CCSC 2026 ([PoisonLoRA](https://github.com/xaddwell/PoisonLoRA)).
 - *2025.12* 2nd PhD Program of the Young S&T Talents Cultivation Project, CAST (中国科协青年科技人才培育工程博士生专项计划).
 
 # Educations
