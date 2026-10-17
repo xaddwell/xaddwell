@@ -21,7 +21,7 @@ My research focuses on Trustworthy Generative AI in real-world applications, esp
 - LLM & Agent Safety: [CCS'26](https://arxiv.org/abs/2605.05271), [TDSC'26](https://arxiv.org/abs/2412.18123), [EMNLP'26 Findings](), [AAAI'27 Submission](), [Submission (T2I Content Safety)]()
 
 # News
-- *2026.10*: I was awarded the 2025-2026 National Scholarship for Graduate Students (研究生国家奖学金) at Zhejiang University!
+- *2026.10*: I was awarded the 2025-2026 National Scholarship for Graduate Students at Zhejiang University!
 - *2026.08*: Our survey on [Safety in Self-Evolving Agents](https://xaddwell.github.io/Awesome-Self-Evolving-Agent-Safety/) is online!
 - *2026.08*: Our [PoisonLoRA](https://github.com/xaddwell/PoisonLoRA) was selected as the Best Poster at CCSC 2026!
 - *2026.08*: One paper was accepted by IEEE TDSC 2026, congratulations to Yiming!
@@ -82,7 +82,7 @@ My research focuses on Trustworthy Generative AI in real-world applications, esp
 - [Universal defensive underpainting patch: Making your text invisible to optical character recognition](https://dl.acm.org/doi/abs/10.1145/3581783.3613768), JiaCheng Deng, Li Dong, **Jiahao Chen**, Diqun Yan, Rangding Wang, Dengpan Ye, Lingchen Zhao, Jinyu Tian, ACM MM 2023. [CCF-A] [Code](https://github.com/QRICKDD/UDUP)
 
 # Honors and Awards
-- *2026.10* 2025-2026 National Scholarship for Graduate Students, Zhejiang University (浙江大学研究生国家奖学金).
+- *2026.10* 2025-2026 National Scholarship for Graduate Students, Zhejiang University.
 - *2026.08* Best Poster Award at CCSC 2026 ([PoisonLoRA](https://github.com/xaddwell/PoisonLoRA)).
 - *2025.12* 2nd PhD Program of the Young S&T Talents Cultivation Project, CAST (中国科协青年科技人才培育工程博士生专项计划).
 
